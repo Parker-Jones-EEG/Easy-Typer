@@ -12,7 +12,7 @@ A lightweight macOS menu bar app that humanizes AI-generated text (or generates 
 1. *(Optional, recommended)* Download and open [Ollama](https://ollama.com).
 2. Download or clone this repository:
    ```bash
-   git clone (https://github.com/Parker-Jones-EEG/Easy-Typer)
+   git clone https://github.com/Parker-Jones-EEG/Easy-Typer
    cd Easy-Typer
    ```
 3. Double-click **`Install_and_Run.command`** (or run `./Install_and_Run.command` in Terminal).
